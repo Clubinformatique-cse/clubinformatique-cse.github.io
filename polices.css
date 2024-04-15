@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
 
 
-/* Titres --> Kanit */
+/* Titres --> Kanit --> 80 px */
 
 .kanit-thin {
     font-family: "Kanit", sans-serif;
@@ -30,7 +30,7 @@
 }
 
 
-/* Boutons --> Fira sans */
+/* Boutons --> Fira sans --> 30px */
 
 .fira-sans-thin {
     font-family: "Fira Sans", sans-serif;
@@ -57,7 +57,7 @@
 }
 
 
-/* Paragraphes --> Montserrat */
+/* Paragraphes --> Montserrat --> 20 px */
 
 .montserrat-thin {
     font-family: "Montserrat", sans-serif;
