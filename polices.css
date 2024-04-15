@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;300;400;700&family=Kanit:wght@100;300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
 
+
+/* Titres --> Kanit */
+
 .kanit-thin {
     font-family: "Kanit", sans-serif;
     font-weight: 100;
@@ -26,29 +29,35 @@
     font-style: normal;
 }
 
+
+/* Boutons --> Fira sans */
+
 .fira-sans-thin {
     font-family: "Fira Sans", sans-serif;
     font-weight: 100;
     font-style: normal;
 }
   
-  .fira-sans-light {
+.fira-sans-light {
     font-family: "Fira Sans", sans-serif;
     font-weight: 300;
     font-style: normal;
 }
   
-  .fira-sans-regular {
+.fira-sans-regular {
     font-family: "Fira Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
   
-  .fira-sans-bold {
+.fira-sans-bold {
     font-family: "Fira Sans", sans-serif;
     font-weight: 700;
     font-style: normal;
 }
+
+
+/* Paragraphes --> Montserrat */
 
 .montserrat-thin {
     font-family: "Montserrat", sans-serif;
