@@ -11,7 +11,7 @@ header {
 }
 
 header img {
-    width: 30%;
+    width: 10%;
     height: auto;
     float: left;
 }
@@ -30,7 +30,7 @@ h2 {
 
 p {
     font-size: 20px;
-    font-family: 'Lucida Sans';
+    font-family: Montserrat;
     text-align: justify;
     margin-left: 20px;
     margin-right: 20px;
@@ -55,6 +55,11 @@ footer {
     justify-content: space-between;
     align-items: flex-end;
     padding: 20px;
+}
+
+a{   
+    text-decoration: none;
+    color: #FCA311;
 }
 
 img {
