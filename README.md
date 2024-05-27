@@ -17,9 +17,6 @@ Ce site est développé par les membres du club, chacun propose ses idées.
 ## Page "Nous contacter" :
 - Paul
 
-## Waykick (projet) :
-- Gabriel 
-
 ## Page catalogue et présentation des services : 
 - Louis
 
